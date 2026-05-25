@@ -1,0 +1,15 @@
+{
+	"name": "harrydatafactory152004",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "62cc4319-2617-4d46-80aa-acca98c3d8b8",
+		"tenantId": "4b9b7a57-5ef7-46a8-8986-aa0ddf6056b2"
+	}
+}
